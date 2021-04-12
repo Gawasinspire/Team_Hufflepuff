@@ -1,0 +1,568 @@
+Thursday, Mar 25, 2021
+Mar 25, 00:00
+EUR European Council Meeting
+HIGH
+Mar 25, 05:00
+EUR Consumer Confidence
+LOW
+70.8 77.1
+Mar 25, 07:00
+EUR Gfk Consumer Confidence Survey
+MEDIUM
+-12.7
+-11.9
+-6.2
+Mar 25, 07:45
+EUR Business Climate in Manufacturing
+LOW
+98
+98
+98
+Mar 25, 08:00
+EUR Industrial Production (YoY)
+LOW
+-5.1% -3.8%
+Mar 25, 08:30
+SEK Producer Price Index (MoM)
+LOW
+1%
+1.1%
+1.5%
+Mar 25, 08:30
+SEK Producer Price Index (YoY)
+LOW
+-0.8% 1.3%
+Mar 25, 08:30
+CHF SNB Interest Rate Decision
+HIGH
+-0.75%
+-0.75%
+-0.75%
+Mar 25, 08:30
+CHF SNB Monetary Policy Assessment
+HIGH
+Mar 25, 09:00
+EUR M3 Money Supply (YoY)
+LOW
+12.5%
+12.5%
+12.3%
+Mar 25, 09:00
+EUR Private Loans (YoY)
+LOW
+3%
+2.9%
+3.0%
+Mar 25, 09:00
+EUR M3 Money Supply (3m)
+LOW
+12% 12.4%
+Mar 25, 09:00
+ISK Consumer Price Index (MoM)
+LOW
+0.7% 0.5%
+Mar 25, 09:00
+ISK Consumer Price Index (YoY)
+LOW
+4.1% 4.3%
+Mar 25, 09:00
+EUR Trade Balance non-EU
+LOW
+€1.71B €4.11B
+Mar 25, 09:00
+EUR Economic Bulletin
+MEDIUM
+Mar 25, 09:00
+EUR ECB's President Lagarde speech
+HIGH
+Mar 25, 09:30
+ZAR Business Confidence Index
+LOW
+94.5
+Mar 25, 09:30
+ZAR Producer Price Index (MoM)
+LOW
+0.8%
+0.5%
+0.7%
+Mar 25, 09:30
+ZAR Producer Price Index (YoY)
+LOW
+3.5%
+3.8%
+4.0%
+Mar 25, 09:30
+EUR German Buba President Weidmann speech
+MEDIUM
+Mar 25, 09:30
+USD Fed's Williams speech
+MEDIUM
+Mar 25, 09:30
+CAD BoC's Governor Macklem speech
+HIGH
+Mar 25, 09:30
+EUR ECB's President Lagarde speech
+HIGH
+Mar 25, 09:30
+GBP BoE's Governor Bailey speech
+HIGH
+Mar 25, 10:30
+INR M3 Money Supply
+LOW
+12.8%
+12.7%
+12.6%
+Mar 25, 11:00
+EUR Current Account Balance EUR
+LOW
+-€206B -€255B
+Mar 25, 11:20
+JPY BoJ's Governor Kuroda speech
+HIGH
+Mar 25, 11:30
+INR Trade Deficit – RBI
+LOW
+-14.8B
+Mar 25, 11:30
+INR Current Account Balance $
+LOW
+$15.5B
+Mar 25, 11:30
+INR Balance Payment $
+LOW
+$31.6B
+Mar 25, 12:00
+BRL Mid-month Inflation
+LOW
+0.48%
+0.96%
+0.93%
+Mar 25, 12:00
+MXN Retail Sales (YoY)
+LOW
+-5.9%
+-8.3%
+-7.6%
+Mar 25, 12:00
+MXN Retail Sales (MoM)
+LOW
+-2.4% 0.1%
+Mar 25, 12:30
+CAD Employment Insurance Beneficiaries Change (MoM)
+LOW
+2% 11.2%
+Mar 25, 12:30
+USD Gross Domestic Product Price Index
+MEDIUM
+2%
+2.0%
+1.9%
+Mar 25, 12:30
+USD Personal Consumption Expenditures Prices (QoQ)
+MEDIUM
+1.6%
+1.6%
+1.5%
+Mar 25, 12:30
+USD Core Personal Consumption Expenditures (QoQ)
+MEDIUM
+1.4%
+1.4%
+1.3%
+Mar 25, 12:30
+USD Continuing Jobless Claims
+MEDIUM
+4.134M
+4.043M
+3.87M
+Mar 25, 12:30
+USD Gross Domestic Product Annualized
+HIGH
+4.1%
+4.1%
+4.3%
+Mar 25, 12:30
+USD Initial Jobless Claims
+HIGH
+781K
+730K
+684K
+Mar 25, 12:30
+USD Initial Jobless Claims 4-week average
+HIGH
+749K 736K
+Mar 25, 13:00
+RUB Central Bank Reserves $
+LOW
+$580.4B $580.9B
+Mar 25, 13:00
+ZAR SARB Interest Rate Decision
+LOW
+3.5%
+3.5%
+3.5%
+Mar 25, 14:00
+EUR Leading Indicator
+LOW
+-4.4
+-3.1
+-1
+Mar 25, 14:10
+USD Fed's Clarida speech
+MEDIUM
+Mar 25, 14:30
+USD EIA Natural Gas Storage Change
+LOW
+-11B
+-25B
+-36B
+Mar 25, 14:30
+USD Fed's Williams speech
+MEDIUM
+Mar 25, 15:00
+23 min
+USD Kansas Fed Manufacturing Activity
+LOW
+26
+24
+Mar 25, 15:30
+53 min
+USD 4-Week Bill Auction
+LOW
+0.005%
+Mar 25, 17:00
+2h 23min
+USD 7-Year Note Auction
+LOW
+1.195%
+Mar 25, 17:00
+2h 23min
+EUR ECB's Schnabel speech
+MEDIUM
+Mar 25, 17:00
+2h 23min
+EUR ECB's De Guindos speech
+MEDIUM
+Mar 25, 19:00
+4h 23min
+MXN Central Bank Interest Rate
+LOW
+4%
+4.0%
+Mar 25, 21:00
+6h 23min
+KRW Consumer Sentiment Index
+LOW
+97.4
+96.2
+Mar 25, 23:50
+9h 13min
+JPY Tokyo CPI ex Fresh Food (YoY)
+MEDIUM
+-0.3%
+-0.2%
+Mar 25, 23:50
+9h 13min
+JPY Tokyo CPI ex Food, Energy (YoY)
+MEDIUM
+0.2%
+0.2%
+Mar 25, 23:50
+9h 13min
+JPY Tokyo Consumer Price Index (YoY)
+MEDIUM
+-0.3%
+0.0%
+Friday, Mar 26, 2021
+Mar 26, 00:00
+9h 23min
+EUR European Council Meeting
+HIGH
+Mar 26, 05:00
+14h 23min
+SGD Industrial Production (MoM)
+LOW
+4.6%
+Mar 26, 05:00
+14h 23min
+SGD Industrial Production (YoY)
+LOW
+8.6%
+Mar 26, 05:30
+14h 53min
+EUR Gross Domestic Product n.s.a (YoY)
+LOW
+-2.9%
+-2.9%
+Mar 26, 05:30
+14h 53min
+EUR Gross Domestic Product s.a (QoQ)
+LOW
+-0.1%
+-0.1%
+Mar 26, 07:00
+16h 23min
+DKK Retail Sales (YoY)
+LOW
+-7.6%
+Mar 26, 07:00
+16h 23min
+EUR Gross Domestic Product (QoQ)
+LOW
+0.4%
+0.4%
+Mar 26, 07:00
+16h 23min
+EUR Gross Domestic Product (YoY)
+LOW
+-9.1%
+-9.1%
+Mar 26, 07:00
+16h 23min
+NOK Credit Indicator
+LOW
+4.9%
+4.9%
+Mar 26, 07:00
+16h 23min
+TRY Capacity Utilization
+LOW
+74.9%
+Mar 26, 07:00
+16h 23min
+TRY Manufacturing Confidence
+LOW
+109.3
+Mar 26, 07:00
+16h 23min
+GBP Retail Sales (MoM)
+MEDIUM
+-8.2%
+2.1%
+Mar 26, 07:00
+16h 23min
+GBP Retail Sales ex-Fuel (MoM)
+MEDIUM
+-8.8%
+1.9%
+Mar 26, 07:00
+16h 23min
+GBP Retail Sales ex-Fuel (YoY)
+MEDIUM
+-3.8%
+-1.5%
+Mar 26, 07:00
+16h 23min
+GBP Retail Sales (YoY)
+MEDIUM
+-5.9%
+-3.5%
+Mar 26, 08:30
+17h 53min
+SEK Retail Sales (MoM)
+LOW
+3.4%
+Mar 26, 08:30
+17h 53min
+SEK Retail Sales (YoY)
+LOW
+3.1%
+Mar 26, 08:30
+17h 53min
+SEK Trade Balance (MoM)
+LOW
+5.2B
+Mar 26, 09:00
+18h 23min
+EUR Business Confidence
+LOW
+99
+99.4
+Mar 26, 09:00
+18h 23min
+EUR Consumer Confidence
+LOW
+101.4
+100.7
+Mar 26, 09:00
+18h 23min
+NOK Registered Unemployment s.a
+LOW
+128.46K
+130K
+Mar 26, 09:00
+18h 23min
+NOK Registered Unemployment n.s.a
+LOW
+4.3%
+4.2%
+Mar 26, 09:00
+18h 23min
+EUR IFO – Business Climate
+MEDIUM
+92.4
+93.2
+Mar 26, 09:00
+18h 23min
+EUR IFO – Current Assessment
+MEDIUM
+90.6
+91.3
+Mar 26, 09:00
+18h 23min
+EUR IFO – Expectations
+MEDIUM
+94.2
+95.2
+Mar 26, 09:30
+18h 53min
+GBP FPC Statement
+LOW
+Mar 26, 09:30
+18h 53min
+GBP FPC Meeting Minutes
+LOW
+Mar 26, 10:00
+19h 23min
+EUR Gross Domestic Product (QoQ)
+LOW
+0.2%
+Mar 26, 10:00
+19h 23min
+EUR Gross Domestic Product (YoY)
+LOW
+-6.1%
+Mar 26, 11:30
+20h 53min
+INR Bank Loan Growth
+LOW
+6.6%
+Mar 26, 11:30
+20h 53min
+INR FX Reserves, USD
+LOW
+$582.04B
+Mar 26, 12:00
+21h 23min
+MXN Trade Balance s/a, $
+LOW
+$2.879B
+Mar 26, 12:00
+21h 23min
+MXN Trade Balance, $
+LOW
+-$1.236B
+$2.815B
+Mar 26, 12:30
+21h 53min
+BRL Current Account
+LOW
+-$7.25B
+-$2.4B
+Mar 26, 12:30
+21h 53min
+USD Wholesale Inventories
+LOW
+1.3%
+Mar 26, 12:30
+21h 53min
+USD Personal Consumption Expenditures - Price Index (MoM)
+LOW
+0.3%
+0.5%
+Mar 26, 12:30
+21h 53min
+USD Personal Consumption Expenditures - Price Index (YoY)
+LOW
+1.5%
+1.6%
+Mar 26, 12:30
+21h 53min
+USD Personal Income (MoM)
+MEDIUM
+10%
+-7.3%
+Mar 26, 12:30
+21h 53min
+USD Core Personal Consumption Expenditure - Price Index (MoM)
+MEDIUM
+0.3%
+0.1%
+Mar 26, 12:30
+21h 53min
+USD Personal Spending
+MEDIUM
+2.4%
+-0.7%
+Mar 26, 12:30
+21h 53min
+USD Core Personal Consumption Expenditure - Price Index (YoY)
+MEDIUM
+1.5%
+1.5%
+Mar 26, 12:30
+21h 53min
+USD Goods Trade Balance
+HIGH
+-$85.4B
+Mar 26, 14:00
+23h 23min
+USD Michigan Consumer Sentiment Index
+HIGH
+83
+83.6
+Mar 26, 17:00
+1 day
+USD Baker Hughes US Oil Rig Count
+LOW
+411
+Mar 26, 19:30
+1 day
+AUD CFTC AUD NC Net Positions
+LOW
+$7.6K
+Mar 26, 19:30
+1 day
+EUR CFTC EUR NC Net Positions
+LOW
+€90K
+Mar 26, 19:30
+1 day
+JPY CFTC JPY NC Net Positions
+LOW
+-¥39.4K
+Mar 26, 19:30
+1 day
+GBP CFTC GBP NC Net Positions
+LOW
+£28.6K
+Mar 26, 19:30
+1 day
+USD CFTC S&P 500 NC Net Positions
+LOW
+-$4.2K
+Mar 26, 19:30
+1 day
+USD CFTC Oil NC Net Positions
+LOW
+525.4K
+Mar 26, 19:30
+1 day
+USD CFTC Gold NC Net Positions
+LOW
+$180.2K
+Mar 26, 20:00
+1 day
+COP Interest rate
+LOW
+1.75%
+1.75%
+Saturday, Mar 27, 2021
+Mar 27, 09:45
+1 day
+EUR ECB's Lane speech
+MEDIUM
+Mar 27, 18:30
+2 days
+INR Holi
+NONE
