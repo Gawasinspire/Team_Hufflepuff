@@ -19,7 +19,7 @@ avg_ratings_list = []
 num_pages_list = []
 original_publish_year_list = []
 is_series_list = []
-palces_list = []
+places_list = []
 
 
 
@@ -38,17 +38,49 @@ for link in url_list[:20]:
         genre_per_book.append(genre)
     genre_list.append(genre_per_book)
 
-    # get the awards (if any)
+    # get awards (if any)
     if page_content.find_all('div', itemprop = 'awards'):
         awards = page_content.find_all('div', itemprop = 'awards')[0].text
         awards_list.append(awards)
     else:
         awards_list.append(np.nan)
     
-    # get the title
+    # get title
     title = page_content.find_all('h1', itemprop = 'name')[0].text
     title = title.replace('\n','').strip()
     title_list.append(title)
+
+    # get author name
+    author = page_content.find_all('div', class_ = 'authorName__container')[0].find_all('span', itemprop = 'name')[0].text
+    author_list.append(author)
+
+    # get num_reviews
+    num_reviews = page_content.find_all('meta', itemprop = 'reviewCount')[0].attrs['content']
+    num_reviews_list.append(num_reviews if page_content.find_all('meta', itemprop = 'reviewCount')[0].attrs['content'] else np.nan)
+
+    # get avg_ratings
+    avg_ratings = page_content.find_all('div', itemprop = 'aggregateRating')[0].find_all('span', itemprop = 'ratingValue')[0].text
+    avg_ratings_list.append(avg_ratings)
+
+    # get num_pages
+    num_pages = page_content.find_all('span', itemprop="numberOfPages")[0].text
+    num_pages_list.append(num_pages[:-6])
+
+    # get original_publish_year
+    original_publish_year = page_content.find_all('nobr', class_ = "greyText")[0].text.strip()
+    original_publish_year_list.append(original_publish_year[-6:-1])
+
+    # get is_series
+    is_series = page_content.find_all('div', id = "bookDataBox")[0].find_all('div', class_ = 'clearFloats')[3].find_all('div', class_ = "infoBoxRowTitle")[0].text
+    is_series_list.append(1 if is_series == 'Series' else 0)
+
+    # get places
+
+df = pd.DataFrame({'title': title_list, 'author': author_list, 'num_reviews': num_reviews_list, 'num_ratings': avg_ratings_list, 'num_pages': num_pages_list, 'original_publish_year': original_publish_year_list})
+
+print(df)
+    
+
 
 
     
@@ -60,6 +92,6 @@ for link in url_list[:20]:
 
 # print(title)
 
-print(genre_list)
-print(awards_list)
-print(title_list)
+# print(genre_list)
+# print(awards_list)
+# print(title_list)
