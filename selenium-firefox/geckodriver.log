@@ -43201,3 +43201,121 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/DbMZ0rSwrYdtGIgs0aJ
 JavaScript warning: https://pagead2.googlesyndication.com/bg/DbMZ0rSwrYdtGIgs0aJlrMhQhsJZwxQeXkiX5VBkOL0.js line 1 > eval line 3163 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1618337101141	Marionette	INFO	Stopped listening on port 43187
+1618379694780	geckodriver	INFO	Listening on 127.0.0.1:56867
+1618379695783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTimxob"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:3082): GLib-GObject-CRITICAL **: 07:54:58.561: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3099): GLib-GObject-CRITICAL **: 07:54:58.945: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618379700979	Marionette	INFO	Listening on port 46789
+1618379701074	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3178): GLib-GObject-CRITICAL **: 07:55:01.141: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pkWyyWNkmr_uFiw7Vavni1hvqfT-w8GGk6JfTYveqco.js line 1 > eval line 7272 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pkWyyWNkmr_uFiw7Vavni1hvqfT-w8GGk6JfTYveqco.js line 1 > eval line 7272 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618379709017	Marionette	INFO	Stopped listening on port 46789
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618379709985	geckodriver	INFO	Listening on 127.0.0.1:59031
+1618379709996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9fp7sg"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:3280): GLib-GObject-CRITICAL **: 07:55:11.813: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3297): GLib-GObject-CRITICAL **: 07:55:12.067: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618379994666	geckodriver	INFO	Listening on 127.0.0.1:49893
+1618379994672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehOtYZf"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:3478): GLib-GObject-CRITICAL **: 07:59:56.984: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3495): GLib-GObject-CRITICAL **: 07:59:57.318: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3559): GLib-GObject-CRITICAL **: 07:59:59.490: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1618379999728	Marionette	INFO	Listening on port 39081
+1618379999862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pkWyyWNkmr_uFiw7Vavni1hvqfT-w8GGk6JfTYveqco.js line 1 > eval line 2067 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pkWyyWNkmr_uFiw7Vavni1hvqfT-w8GGk6JfTYveqco.js line 1 > eval line 2067 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618380007789	Marionette	INFO	Stopped listening on port 39081
+1618380008637	geckodriver	INFO	Listening on 127.0.0.1:39243
+1618380008644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehBwesF"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:3663): GLib-GObject-CRITICAL **: 08:00:10.451: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3680): GLib-GObject-CRITICAL **: 08:00:10.633: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618380012378	Marionette	INFO	Listening on port 36057
+
+(/usr/lib/firefox/firefox:3750): GLib-GObject-CRITICAL **: 08:00:12.495: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1618380012502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618380019162	Marionette	INFO	Stopped listening on port 36057
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilehBwesF/protections.sqlite
+1618380372530	geckodriver	INFO	Listening on 127.0.0.1:54033
+1618380372541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekQ5ABY"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:3938): GLib-GObject-CRITICAL **: 08:06:14.467: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3955): GLib-GObject-CRITICAL **: 08:06:14.835: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:4044): GLib-GObject-CRITICAL **: 08:06:17.261: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1618380377830	Marionette	INFO	Listening on port 41181
+1618380377987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618380426372	geckodriver	INFO	Listening on 127.0.0.1:33095
+1618380427387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexFk0LW"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:4134): GLib-GObject-CRITICAL **: 08:07:09.660: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4151): GLib-GObject-CRITICAL **: 08:07:10.066: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618380432411	Marionette	INFO	Listening on port 32933
+
+(/usr/lib/firefox/firefox:4220): GLib-GObject-CRITICAL **: 08:07:12.439: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1618380432468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618380440686	Marionette	INFO	Stopped listening on port 32933
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618380441668	geckodriver	INFO	Listening on 127.0.0.1:33023
+1618380441678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileltiAzi"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:4324): GLib-GObject-CRITICAL **: 08:07:23.418: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4341): GLib-GObject-CRITICAL **: 08:07:23.702: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:4411): GLib-GObject-CRITICAL **: 08:07:25.931: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1618380445956	Marionette	INFO	Listening on port 42051
+1618380446027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618380453143	Marionette	INFO	Stopped listening on port 42051
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
