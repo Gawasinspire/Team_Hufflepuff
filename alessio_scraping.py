@@ -20,26 +20,31 @@ def get_books_url_per_page(base_url, tag, tag_class):
     return book_url_list
 
 
-def get_base_page_list(base_url, n):
+def get_base_page_list(base_url, pages):
     base_page_list = []
-    for i in range(n):
+    for i in range(pages):
         base_page_list.append(base_url + str(i + 1))
     
     return base_page_list
 
-whole_book_url_list = []
 
-for link in get_base_page_list('https://www.goodreads.com/list/show/50.The_Best_Epic_Fantasy_fiction_?page=', 36):
-    whole_book_url_list.append(get_books_url_per_page(link, 'a', 'bookTitle'))
+def get_whole_book_links(base_url, pages):
+    whole_book_url_list = []
 
-whole_book_url_list = [link for subs in whole_book_url_list for link in subs]
+    for link in get_base_page_list(base_url, pages):
+        whole_book_url_list.append(get_books_url_per_page(link, 'a', 'bookTitle'))
 
-print(len(whole_book_url_list))
+    whole_book_url_list = [link for subs in whole_book_url_list for link in subs]
 
-link_df = pd.DataFrame({'url': whole_book_url_list})
-link_df.to_csv('./links.csv')
+    print(len(whole_book_url_list))
 
+whole_book_url_list_ = get_whole_book_links('https://www.goodreads.com/list/show/50.The_Best_Epic_Fantasy_fiction_?page=', 36)
 
+link_df = pd.DataFrame({'url': whole_book_url_list_})
+print(link_df)
+# link_df.to_csv('./links.csv')
+
+# 'https://www.goodreads.com/list/show/50.The_Best_Epic_Fantasy_fiction_?page='
 
 
 
