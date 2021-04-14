@@ -1,0 +1,13 @@
+,Unnamed: 0,url,title,author,num_reviews,num_ratings,avg_rating,num_pages,original_publish_year,series,genres,awards,places
+count,1000,1000,1000,1000,1000,1000,1000,983,992,1000,1000,395,235
+unique,,1000,998,415,,,,,,2,177,370,152
+top,,https://www.goodreads.com//book/show/12954620-falling-kingdoms,The Summoner,David Eddings,,,,,,True,"['Fantasy', 'Fiction', 'Fantasy']",Margaret A. Edwards Award (2013),Tortall
+freq,,1,2,22,,,,,,888,244,5,8
+mean,499.5,,,,4538.787,120078.62,4.10815,494.81485249237,2003.1189516129,,,,
+std,288.819436095749,,,,12569.5652003941,469725.59933429,0.264130730023113,298.507595251383,64.2907902824813,,,,
+min,0,,,,0,4,3.18,0,1,,,,
+25%,249.75,,,,112.5,2883.25,3.9475,337,2001,,,,
+50%,499.5,,,,570,15524,4.1,441,2006,,,,
+75%,749.25,,,,2847.75,70026,4.26,592,2012,,,,
+max,999,,,,175490,7504311,5,5216,2021,,,,
+isna().any(),,False,False,False,False,False,False,True,True,False,False,True,True
