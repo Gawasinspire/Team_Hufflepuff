@@ -43426,3 +43426,53 @@ _httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-
 exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
 Line: 130, column: 9
 console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+1618498155006	geckodriver	INFO	Listening on 127.0.0.1:45811
+1618498156013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyWU9FV"
+
+(firefox:35102): IBUS-WARNING **: 16:49:17.840: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618498160891	Marionette	INFO	Listening on port 34593
+1618498160973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618498163874	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618498498836	geckodriver	INFO	Listening on 127.0.0.1:42451
+1618498498843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNfiNkj"
+
+(firefox:35711): IBUS-WARNING **: 16:55:00.773: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618498503942	Marionette	INFO	Listening on port 34637
+1618498504015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618498506329	Marionette	INFO	Stopped listening on port 34593
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618498507117	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618498514067	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618498514903	Marionette	INFO	Stopped listening on port 34637
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618498515915	geckodriver	INFO	Listening on 127.0.0.1:39245
+1618498515924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehTUE6B"
+
+(firefox:35962): IBUS-WARNING **: 16:55:17.717: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618498520906	Marionette	INFO	Listening on port 32831
+1618498520991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618498523582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618498529072	Marionette	INFO	Stopped listening on port 32831
