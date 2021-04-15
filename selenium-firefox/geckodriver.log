@@ -43384,3 +43384,45 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1618387207457	Marionette	WARN	TLS certificate errors will be ignored for this session
 1618387213404	Marionette	INFO	Stopped listening on port 43475
 JavaScript error: https://s.gr-assets.com/assets/react_client_side/external_dependencies-51654d5556.js, line 3750: NS_ERROR_NOT_INITIALIZED: 
+1618407435182	geckodriver	INFO	Listening on 127.0.0.1:52793
+1618407436188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevqkdi8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618407452596	Marionette	INFO	Listening on port 43939
+1618407452841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618407458153	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618407510247	Marionette	INFO	Stopped listening on port 43939
+1618407553662	geckodriver	INFO	Listening on 127.0.0.1:46703
+1618407553707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA09vJM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618407568005	Marionette	INFO	Listening on port 35789
+1618407568131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618407605345	geckodriver	INFO	Listening on 127.0.0.1:42231
+1618407605375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGxfTVL"
+1618407609823	Marionette	INFO	Stopped listening on port 35789
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618407620853	Marionette	INFO	Listening on port 38543
+1618407621259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618407639868	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618407697095	Marionette	INFO	Stopped listening on port 38543
+1618450211292	geckodriver	INFO	Listening on 127.0.0.1:50565
+1618450212299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUGdhF7"
+
+(firefox:5765): IBUS-WARNING **: 03:30:14.368: Unable to connect to ibus: Could not connect: Connection refused
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618450217745	Marionette	INFO	Listening on port 38685
+1618450217896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618450221630	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
