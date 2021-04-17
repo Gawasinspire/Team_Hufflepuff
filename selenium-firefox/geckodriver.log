@@ -43548,3 +43548,75 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/aTo5JV-AjziuZNTa8Sp
 JavaScript warning: https://pagead2.googlesyndication.com/bg/aTo5JV-AjziuZNTa8Sp43jLVG8qXCwH7OYU06B-2QbM.js line 1 > eval line 1113 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1618642185848	Marionette	INFO	Stopped listening on port 36795
+1618644630435	geckodriver	INFO	Listening on 127.0.0.1:60805
+1618644630444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7DP4jP"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:8206): GLib-GObject-CRITICAL **: 09:30:32.353: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:8223): GLib-GObject-CRITICAL **: 09:30:32.614: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618644634440	Marionette	INFO	Listening on port 40223
+1618644634502	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8293): GLib-GObject-CRITICAL **: 09:30:34.695: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wkpRfPPcRT5gRuVOwfaUS9di2m_GhEf8-oTDdHI7uwk.js line 1 > eval line 5371 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wkpRfPPcRT5gRuVOwfaUS9di2m_GhEf8-oTDdHI7uwk.js line 1 > eval line 5371 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1618644661587	Marionette	INFO	Stopped listening on port 40223
+1618645627066	geckodriver	INFO	Listening on 127.0.0.1:58481
+1618645628076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6lPUZY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618645633508	Marionette	INFO	Listening on port 37869
+1618645633647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618645645838	Marionette	INFO	Stopped listening on port 37869
+1618645974150	geckodriver	INFO	Listening on 127.0.0.1:53029
+1618645974157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKmUNMk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618645979993	Marionette	INFO	Listening on port 45535
+1618645980123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618645982387	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618645993786	Marionette	INFO	Stopped listening on port 45535
+1618645994691	geckodriver	INFO	Listening on 127.0.0.1:33069
+1618645994699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2bozus"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618645999527	Marionette	INFO	Listening on port 39841
+1618645999667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618646002877	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618646008375	Marionette	INFO	Stopped listening on port 39841
+1618646112353	geckodriver	INFO	Listening on 127.0.0.1:37099
+1618646112360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexrjOm5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618646117142	Marionette	INFO	Listening on port 46445
+1618646117241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618646119879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618646128206	Marionette	INFO	Stopped listening on port 46445
+1618646129391	geckodriver	INFO	Listening on 127.0.0.1:34777
+1618646129400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4m5m1j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618646134260	Marionette	INFO	Listening on port 43807
+1618646134365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618646136781	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618646141916	Marionette	INFO	Stopped listening on port 43807
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/external_dependencies-2e2b90fafc.js, line 3617: NS_ERROR_NOT_INITIALIZED: 
+1618646224731	geckodriver	INFO	Listening on 127.0.0.1:37665
+1618646224738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVcDLFo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618646229537	Marionette	INFO	Listening on port 35053
+1618646229604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618646231871	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618646244184	Marionette	INFO	Stopped listening on port 35053
+1618646245125	geckodriver	INFO	Listening on 127.0.0.1:41213
+1618646245133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFsOM7z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618646250061	Marionette	INFO	Listening on port 34845
+1618646250204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618646252352	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618646257721	Marionette	INFO	Stopped listening on port 34845
+JavaScript error: https://s.gr-assets.com/assets/react_client_side/external_dependencies-2e2b90fafc.js, line 3617: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
