@@ -178,11 +178,15 @@ def analyse(df):
 def open_window():
 	layout = [[sg.Text('Hufflepuff_Scrapper')],
 	#[sg.Image(r'../index.png')],
-	[sg.Text('Enter Url to scrapp and analyse')],
+	[sg.Text('Enter Url to scrapp')],
 	[sg.Input()],
 	[sg.Button('Scrapp'), sg.Button('Exit')],
 	[sg.ProgressBar(1, orientation='h', size=(20, 20), key='progress')]]
-	
+	dir_base_url = 'https://www.goodreads.com/list/show/50.The_Best_Epic_Fantasy_fiction_?page='
+	#scraper(dir_base_url)
+	csv_path = 'final_01.csv'
+	df = preprocessing(csv_path)
+	analyse(df
 	#This Creates the Physical Window
 	window = sg.Window('Hufflepuff_Scrapper', layout, resizable=True, icon='../index.png').Finalize()
 	progress_bar = window.FindElement('progress')
@@ -214,11 +218,6 @@ def open_window():
 
 
 def main():
-	dir_base_url = 'https://www.goodreads.com/list/show/50.The_Best_Epic_Fantasy_fiction_?page='
-	#scraper(dir_base_url)
-	csv_path = 'final_01.csv'
-	df = preprocessing(csv_path)
-	analyse(df)
 	layout = [[sg.Button("Open Window", key="open")],[sg.Image(r'../index.png')]]
 	window = sg.Window("Main Window", layout,icon='../index.png')
 	while True:
@@ -226,9 +225,9 @@ def main():
 		if event == "Exit" or event == sg.WIN_CLOSED:
 			break
 		if event == "open":
-			scraper(open_window(),3)
+			open_window()
+			window.Maximze()
 			window.close()
-
 
 if __name__ == "__main__":
     main()
